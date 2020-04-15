@@ -1,3 +1,12 @@
 # hello
-https://www.quchao.net/ShadowsocksR.html
-https://bianhuaho.com/
+说明书: https://www.quchao.net/ShadowsocksR.html
+
+
+
+
+
+
+
+
+
+peace: https://bianhuaho.com/
