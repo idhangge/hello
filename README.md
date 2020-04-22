@@ -1,5 +1,6 @@
 # hello
-说明书: https://moe.best/tutorial/shadowsocksr.html   (https://www.quchao.net/ShadowsocksR.html)           
+说明书: https://moe.best/tutorial/shadowsocksr.html   
+(https://www.quchao.net/ShadowsocksR.html)           
 
 类几鸡:https://youyun666.com/auth/register
 
